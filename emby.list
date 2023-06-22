@@ -15,6 +15,9 @@ DOMAIN,play.charontv.com,Emby
 #垃圾
 DOMAIN,cf.emby.ml,Emby直连
 DOMAIN,nl.xmsl.org,Emby直连
+DOMAIN,1.loseremby.org,Emby直连
+DOMAIN,de.xmsl.org,Emby直连
+DOMAIN,cf.gtlx.org,Emby
 #终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
